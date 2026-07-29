@@ -1,3 +1,24 @@
+# ArduTracker
+
+An open-source Arduino and Pixhawk-based Antenna Tracker featuring closed-loop PID control, encoder feedback, MAVLink communication, and ArduPlane SITL simulation for real and simulated UAV tracking.
+
+---
+
+## Features
+
+- 🎯 Closed-loop PID Position Control
+- 📡 MAVLink Telemetry Support
+- 🚁 Real UAV Tracking
+- 💻 ArduPlane SITL Simulation
+- 🔄 MAVProxy Multi-Vehicle Routing
+- 📍 Pixhawk ArduTracker Support
+- ⚙️ Arduino + BTS7960 Motor Control
+- 📈 Incremental Encoder Feedback
+- 🛰️ Mission Planner Integration
+- 🔧 EEPROM-based PID Calibration
+
+---
+
 # Operation Modes
 
 Sistem Antenna Tracker ini dirancang agar dapat beroperasi dalam dua mode yang berbeda, yaitu menggunakan **UAV fisik (Real Flight)** maupun **Software In The Loop (SITL)**. Kedua mode tersebut menggunakan algoritma pelacakan dan firmware yang sama sehingga proses pengembangan dapat dilakukan secara aman menggunakan simulasi sebelum diimplementasikan pada sistem nyata.
