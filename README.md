@@ -1,6 +1,6 @@
 # ArduTracker
 
-An open-source Arduino and Pixhawk-based Antenna Tracker featuring closed-loop PID control, encoder feedback, MAVLink communication, and ArduPlane SITL simulation for real and simulated UAV tracking.
+An open-source Arduino and Pixhawk-based Antenna Tracker designed for autonomous UAV tracking using MAVLink telemetry, closed-loop PID control, encoder feedback, and ArduPlane SITL simulation. The project supports both real UAV and simulation-based testing, and is being developed for the KRTI (Kontes Robot Terbang Indonesia) 2026 competition.
 
 ---
 
